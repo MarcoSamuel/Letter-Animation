@@ -1,0 +1,50 @@
+ @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+*{
+	margin: 0;padding: 0;box-sizing: border-box;background-color: #f30d46;color:white;
+}
+@media(max-width: 900px) {
+	.container{
+		font-size: 20px;
+	}
+	.git_da_vida{
+		text-align: center;
+	}
+}
+@media(max-width: 700px) {
+	.container{
+		font-size: 12px;
+	}
+}
+.container{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	top: 30vh;
+    font-family: 'Muli', sans-serif;
+}
+.ml6 {
+  position: relative;
+  font-weight: 900;
+  font-size: 4.3em;
+}
+
+.ml6 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml6 .letras {
+  display: inline-block;
+  line-height: 1em;
+}
+.git_da_vida{
+	margin: 0px 30px;
+	font-size: 21px;
+}
+a{
+	text-decoration: none;
+}
