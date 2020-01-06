@@ -1,5 +1,6 @@
 # Letter-Animation
-Divirta-se, padawans
+  Divirta-se, padawans
 
 **Como usar**
-Mantenha seu navegador atualizado !!!
+1 - Mantenha seu navegador atualizado !!!
+2 - Tenha pelo menos algum navegador na maquina
